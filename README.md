@@ -5,7 +5,7 @@ Project Goal:
 Team:
 - 4 members
 
-Responsibilities:
+individual contribution:
 - Design both the logical and physical network diagrams for the university.
 
 ---
